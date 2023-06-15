@@ -22,8 +22,8 @@ def update_chart(df):
 
         # Update the layout if necessary
         fig.update_layout(
-            title='Bitcoin live share price evolution',
-            yaxis_title='Bitcoin Price (kUS Dollars)'
+            title='Uber Stock live price evolution',
+            yaxis_title='Uber Price (kUS Dollars)'
         )
 
         # Update the X-Axes if necessary
